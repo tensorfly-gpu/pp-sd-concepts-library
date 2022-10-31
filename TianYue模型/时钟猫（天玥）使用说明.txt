@@ -1,0 +1,26 @@
+一、简述：
+和之前的TAG稍有不同，本次模型“TianYue”，本体自带“时钟”“猫耳”“白发”“红瞳”四种元素，是标椎的时钟猫（也是作者）
+“ClockCat”依然是确定画风。
+
+
+二、细节概述：
+1）仍然可以调整发色瞳色，发色瞳色自己喜欢什么样色就写什么色例如：bule hair,red ees，也支持混色发与异色瞳
+2）背景输入输入“clock”为实体样式的钟表，加上“（magical circle）”出现法阵样式的钟表。（概率钟楼），不输入则默认实体钟。
+3）不强调细节可能出现的情况：
+背景，其色调就会跟发色瞳色差不多
+衣服，主色调跟发色一致，瞳色为修饰
+实体背景时钟，风格比较固定，颜色为棕色、发瞳混色或单色
+法阵样式时钟，风格“多变”，颜色为发色瞳色混色或单色
+
+三、推荐反面：ugly,duplicate,morbid,mutilated,tranny,trans,trannsexual,mutation,deformed,long neck,bad anatomy,bad proportions,extra arms,extra legs, disfigured,more than 2 nipples,malformed,mutated,hermaphrodite,out of frame,extra limbs,missing arms,missing legs,poorly drawn hands,poorty drawn face,mutation,poorly drawn,long body,multiple breasts,cloned face,gross proportions, mutated hands,bad hands,bad feet,long neck,missing limb,malformed limbs,malformed hands,fused fingers,too many fingers,extra fingers,missing fingers,extra digit,fewer digits,mutated hands and fingers,lowres,text,error,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,text font ui,futa,yaoi
+或者飞桨自带反面
+其他反面大家自行尝试，有什么好看的可以分享到群里
+
+四、问题反馈：
+1）目前“天玥”模型本体容易缺少内部元素，可以通过外加内容强调出来：
+“cat ears”“clock”“red eyes”“white hair”
+2）飞桨跑出来的脸还是容易崩，多跑几次
+
+
+
+
