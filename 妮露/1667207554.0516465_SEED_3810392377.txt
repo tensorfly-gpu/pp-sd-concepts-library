@@ -1,0 +1,18 @@
+prompt: <nilu>
+negative_prompt: NSFW, lowres,bad anatomy,bad hands, text, error, missing fingers,extra digit, fewer digits, cropped, worstquality, low quality, normal quality,jpegartifacts,signature, watermark, username,blurry,bad feet
+height: 800
+width: 800
+num_inference_steps: 50
+guidance_scale: 7.5
+num_images_per_prompt: 1
+eta: 0.0
+seed: 3810392377
+latents: None
+max_embeddings_multiples: 3
+no_boseos_middle: False
+skip_parsing: False
+skip_weighting: False
+epoch_time: 1667207520.837306
+sampler: PNDM
+superres_model_name: 无
+model_name: MoososCap/NOVEL-MODEL
