@@ -1,4 +1,4 @@
-# novelai-weight-sharing
+# pp-sd-concepts-library
 
 novelai，飞桨框架，tag权重分享
 
