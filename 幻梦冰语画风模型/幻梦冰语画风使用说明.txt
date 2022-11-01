@@ -1,0 +1,7 @@
+Icewhisper（幻梦冰语）是基于冰元素与水元素魔法训练的偏向柔和的画风，其中有一定的高光弱化效果，使图片出现“高光刺眼”的概率降低，并强化背景（不强调背景则优化人物）。其本身训练强度不高，权重占比较低，对图片的整体影响不大，是一种用来柔和（不是暗淡）生成图片的辅助画风。tag词条为IW
+
+测试tag：
+正面：IW,1girl,(blue hair),(extremely detailed CG unity 8k wallpaper),(((masterpiece))),beautiful detailed glow,detailed ice,beautiful detailed water,(beautiful detailed eyes),(floating palaces),azure hair,disheveled hair,long bangs, hairs between eyes,(skyblue dress),black ribbon,white bowties,midriff,expressionless,(((half closed eyes))),blank stare,flower,large top sleeves
+（推荐）反面：ugly,duplicate,morbid,mutilated,tranny,trans,trannsexual,mutation,deformed,long neck,bad anatomy,bad proportions,extra arms,extra legs, disfigured,more than 2 nipples,malformed,mutated,hermaphrodite,out of frame,extra limbs,missing arms,missing legs,poorly drawn hands,poorty drawn face,mutation,poorly drawn,long body,multiple breasts,cloned face,gross proportions, mutated hands,bad hands,bad feet,long neck,missing limb,malformed limbs,malformed hands,fused fingers,too many fingers,extra fingers,missing fingers,extra digit,fewer digits,mutated hands and fingers,lowres,text,error,cropped,worst quality,low quality,normal quality,jpeg artifacts,signature,watermark,username,blurry,text font ui,futa,yaoi
+
+模型作者：天玥
