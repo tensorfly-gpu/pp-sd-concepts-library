@@ -4,7 +4,7 @@ novelai，飞桨框架，tag权重分享
 
 # 如何获得权重
 
-由pytorch权重转换的paddle权重存储在pd文件夹下。
+由pytorch权重转换的paddle权重存储在pt2pd文件夹下。
 
 由paddle上训练的权重存储在pdparams文件夹下。
 
